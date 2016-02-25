@@ -17,7 +17,7 @@ setup(
     license = "MIT",
     keywords = "argument parsing ",
     packages=['yoga', 'tests'],
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "License :: OSI Approved :: MIT License",
